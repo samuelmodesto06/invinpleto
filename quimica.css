@@ -44,3 +44,10 @@ header {
     gap: 50px;
     flex-wrap: wrap;
 }
+
+.conteudo ul li:hover .block {
+    display: block;
+    text-align: justify;
+    color: var(--marinho);
+    margin-bottom: 5px;
+}
