@@ -55,7 +55,6 @@ header {
 }
 
 .conteudo {
-    background-color: var(--branco);
     border-radius: 10px;
     padding: 30px;
     width: 80%;
