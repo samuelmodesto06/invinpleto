@@ -36,3 +36,11 @@ header {
     background-color: cornflowerblue;
     border-radius: 1.2rem;
 }
+.quimica-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+    flex-wrap: wrap;
+}
