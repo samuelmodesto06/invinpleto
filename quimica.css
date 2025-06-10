@@ -17,14 +17,12 @@ header {
   display: flex;
   justify-content: space-around;
 }
-.menu__externo ul,
-.menu__interno ul {
+.menu__externo ul,.menu__interno ul {
   display: flex;
   gap: 20px;
   list-style: none;
 }
-.menu__externo li a,
-.menu__interno li a {
+.menu__externo li a,.menu__interno li a {
   color: #ecf0f1;
   text-decoration: none;
   font-size: 1.25rem;
